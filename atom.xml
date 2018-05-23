@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-23T14:48:11.052Z</updated>
+  <updated>2018-05-23T14:55:11.977Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,26 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好,hexo00123456</title>
+    <title>余锦标</title>
     <link href="http://yoursite.com/2018/05/23/%E4%BD%A0%E5%A5%BD-hexo001/"/>
     <id>http://yoursite.com/2018/05/23/你好-hexo001/</id>
     <published>2018-05-23T13:12:02.000Z</published>
-    <updated>2018-05-23T14:48:11.052Z</updated>
+    <updated>2018-05-23T14:55:11.977Z</updated>
     
-    <content type="html"><![CDATA[<p>23333333</p>]]></content>
+    <content type="html"><![CDATA[<p>余锦标是我的好儿子</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;23333333&lt;/p&gt;
+        &lt;p&gt;余锦标是我的好儿子&lt;/p&gt;
 
       
     
     </summary>
     
     
-      <category term="2333333" scheme="http://yoursite.com/tags/2333333/"/>
+      <category term="son" scheme="http://yoursite.com/tags/son/"/>
     
   </entry>
   
